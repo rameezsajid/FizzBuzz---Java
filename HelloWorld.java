@@ -6,7 +6,7 @@
 
  	public static void main (String[] args){
  		
- 		// for everytime following codition is met
+ 		// for everytime following condition is met
  		for(int i = 1; i <= 100; i++)
  		{
  			//execute following code
